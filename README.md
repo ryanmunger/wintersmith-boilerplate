@@ -1,6 +1,6 @@
 ## About
 
-A very simple [wintersmith.io](https://github.com/jnordberg/wintersmith) static site boilerplate that includes the [Stylus version of Twitter Bootstrap](https://github.com/Acquisio/bootstrap-stylus).
+A very simple [wintersmith.io](https://github.com/jnordberg/wintersmith) static site boilerplate that includes [normalize.css](http://necolas.github.io/normalize.css/)
 
 ## Getting Started
 
