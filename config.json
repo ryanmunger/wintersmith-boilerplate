@@ -1,0 +1,11 @@
+{
+  "locals": {
+    "title": "Wintersmith Boilerplate"
+  },
+  "plugins": [
+    "./node_modules/wintersmith-stylus/plugin.coffee"
+  ],
+  "jade": {
+    "pretty": true
+  }
+}

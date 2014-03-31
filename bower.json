@@ -1,0 +1,19 @@
+{
+  "name": "wintersmith-boilerplate",
+  "version": "0.0.0",
+  "authors": [
+    "Ryan <ryanmunger@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-stylus": "*"
+  }
+}

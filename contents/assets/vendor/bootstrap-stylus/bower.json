@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap-stylus",
+  "version": "3.1.0",
+  "main": "stylus/bootstrap.styl",
+  "description": "A port of Bootstrap to Stylus",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
