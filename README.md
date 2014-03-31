@@ -1,6 +1,6 @@
 ## About
 
-A wintersmith.io boilerplate that includes a 3.1.0 Stylus version of Twitter Bootstrap
+A very simple wintersmith.io static site boilerplate that includes the Stylus version of Twitter Bootstrap
 
 ## Getting Started
 
