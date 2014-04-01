@@ -3,7 +3,7 @@
     "title": "Wintersmith Boilerplate"
   },
   "plugins": [
-    "./node_modules/wintersmith-stylus/plugin.coffee"
+    "./node_modules/wintersmith-sass/plugin.coffee"
   ],
   "jade": {
     "pretty": true

@@ -2,8 +2,7 @@
   "name": "wintersmith-boilerplate",
   "version": "0.0.1",
   "dependencies": {
-    "wintersmith": "*",
-    "wintersmith-stylus": "*"
+    "wintersmith-sass": "*"
   },
   "repository": "none"
 }
